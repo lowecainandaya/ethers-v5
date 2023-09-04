@@ -1,0 +1,28 @@
+{
+  "name": "ethers-version-5",
+  "version": "0.0.1",
+  "description": "a simple ethers version 5 holder to allow v5 together with other ethers.js versions",
+  "main": "./dist/main.js",
+  "scripts": {
+    "compile": "tsc compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lowecainandaya/ethers-v5.git"
+  },
+  "keywords": [
+    "ethers",
+    "smart-contract",
+    "crypto",
+    "ethereum",
+    "web3"
+  ],
+  "author": "Louie Cain",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ethers": "^5"
+  }
+}
